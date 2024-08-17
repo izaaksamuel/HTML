@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introdução ao HTML5</title>
+    <style>
+        body {
+            background: rgb(251, 255, 4);
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+
+        h1 {
+            color: #036e23;
+            text-align: center;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 2.em;
+        }
+
+        p {
+            font-size: 1.2;
+            text-align: justify;
+        }
+
+        span {
+            color: #036e23;
+            font-size: 1.3em;
+        }
+
+        h2 {
+            text-align: center;
+            font-size: 2em;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            background: white;
+        }
+
+        img {
+            width: 250px;
+            width: 250px;
+        }
+    </style>
+</head>
+
+<body>
+    <!--comentario-->
+    <h1><marquee behavior="alternate">ola mundo</marquee>
+        
+        
+        
+    </h1>
+    <p>
+        O <span>"Olá Mundo" ou "Alô Mundo"</span> é um famoso programa de computador que imprime "Olá, Mundo!"
+        <strong>(ou "Hello, World!"),</strong> usualmente seguido de uma quebra de linha, com algumas variações como
+        inexistência do ponto de exclamação e letras em minúscula, no dispositivo de saída. É utilizado como um teste ou
+        como um exemplo de código minimalista de uma linguagem de programação. Um programa de propósito semelhante é o
+        <b>algoritmo de Trabb Pardo-Knuth.</b>
+
+    </p>
+    <h2>LIVRE DO CLT</h2>
+    <center>
+        <img src="yugioh.jpg" alt="">
+    </center>
+</body>
+
+</html>
